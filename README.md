@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **some of my side projects :P**
 - 👯 I’m looking to collaborate on **anything free and open source**
 - 💬 Ask me about HTML, CSS, SCSS, Javascript and React JS.
-- 📫 How to reach me **rishipal3295@gmail.com**
+- 📫 How to reach me **rishipal3294@gmail.com**
 - 🥅 2022 Goals: Keep grinding!
 
 ### Me on Internet:
